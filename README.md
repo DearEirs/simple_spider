@@ -1,7 +1,7 @@
 # simple_spider
 
-Configure config.py with your config
+Configure config.py with your config.
 
 Then just run controller.py 
 
-After a while you can see some data in redis or mysql 
+After a while you can see some data in redis or mysql. 
