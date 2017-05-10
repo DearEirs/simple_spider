@@ -1,6 +1,6 @@
 # simple_spider
 
-Configure config.py as your config
+Configure config.py with your config
 
 Then just run controller.py 
 
